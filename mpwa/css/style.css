@@ -1,0 +1,9 @@
+div#body-content {
+    min-height: 500px;
+}
+
+div.nofav {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
